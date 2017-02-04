@@ -1,0 +1,10 @@
+framework module QBWebViewControllerSDK {
+  umbrella header "QBWebViewControllerSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module QBWebViewControllerSDK.Swift {
+    header "QBWebViewControllerSDK-Swift.h"
+}
