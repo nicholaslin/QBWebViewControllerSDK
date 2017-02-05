@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "just for QuBao."
 
-  s.description  = webViewController：提供通用接口用于H5调用 
+  s.description  = "webViewController：提供通用接口用于H5调用"
 		  
   s.homepage     = "https://github.com/nicholaslin/QBWebViewControllerSDK"
   s.license      = "MIT"
