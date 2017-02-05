@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		5RdZQiRDOcZX6o3aAWWXXGSfvNY=
+		I8jjbB/1vF2cfTWA/ksTpXyfCoI=
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		kXjcvwrSb8XXZFiSty5dKP7Qwec=
+		wN6RE9FTxV3UpTWRx0Ycl25+IvA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -223,11 +223,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5RdZQiRDOcZX6o3aAWWXXGSfvNY=
+			I8jjbB/1vF2cfTWA/ksTpXyfCoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BzikjHmq71+pQwhsYxWcrigg4dKRDTgIi2RWGykZ8lA=
+			VmW2tb1xmIvfzj63/qKOJzmaxKVYT8zSuFnZw0SVZtk=
 			</data>
 		</dict>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -245,11 +245,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kXjcvwrSb8XXZFiSty5dKP7Qwec=
+			wN6RE9FTxV3UpTWRx0Ycl25+IvA=
 			</data>
 			<key>hash2</key>
 			<data>
-			CKlN7krly3hzgjFI4M4ujcpIh6W3NFpLOS+bq5Z9Kbk=
+			8ptgkGLNJ0fJLwvu0eQarJxJyMcqEz3SbXD8Rb9iR4c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
