@@ -10,14 +10,14 @@ Pod::Spec.new do |s|
 		   webViewController：提供通用接口用于H5调用
                    DESC
 
-  s.homepage     = "https://github.com/nicholaslin/QBWebViewControllerSDK"
+  s.homepage     = "https://github.com/QBWebViewControllerSDK"
    s.license      = "MIT"
 
   s.author             = { "nicholaslin" => "990215314@qq.com" }
    s.platform     = :ios, "8.0"
    s.requires_arc = true
 
-  s.source       = { :git => "https://github.com/nicholaslin/QBWebViewControllerSDK", :tag =>"1.0.0"}
+  s.source       = { :git => "https://github.com/QBWebViewControllerSDK.git", :tag =>"1.0.0"}
 
 
    s.frameworks    = "Foundation","Webkit","AVFoundation","MapKit","UIKit","AssetsLibrary","Photos"
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-s.resources = "QBWebViewControllerSDK.bundle"
+#s.resources = "Resources/*.{json,js}"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
