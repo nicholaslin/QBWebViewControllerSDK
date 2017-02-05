@@ -6,23 +6,21 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "just for QuBao."
 
-  s.description  = <<-DESC
-		   webViewController：提供通用接口用于H5调用
-                   DESC
+  s.description  = webViewController：提供通用接口用于H5调用 
+		  
+  s.homepage     = "https://github.com/nicholaslin/QBWebViewControllerSDK"
+  s.license      = "MIT"
 
-  s.homepage     = "https://github.com/QBWebViewControllerSDK"
-   s.license      = "MIT"
+  s.author       = { "nicholaslin" => "990215314@qq.com" }
+  s.platform     = :ios, "8.0"
+  s.requires_arc = true
 
-  s.author             = { "nicholaslin" => "990215314@qq.com" }
-   s.platform     = :ios, "8.0"
-   s.requires_arc = true
-
-  s.source       = { :git => "https://github.com/QBWebViewControllerSDK.git", :tag =>"1.0.0"}
+  s.source       = { :git => "https://github.com/nicholaslin/QBWebViewControllerSDK.git", :tag =>"1.0.0"}
 
 
-   s.frameworks    = "Foundation","Webkit","AVFoundation","MapKit","UIKit","AssetsLibrary","Photos"
+  s.frameworks    = "Foundation","Webkit","AVFoundation","MapKit","UIKit","AssetsLibrary","Photos"
 
-    s.vendored_framework = "QBWebViewControllerSDK.framework"
+  s.vendored_framework = "QBWebViewControllerSDK.framework"
 #s.resource_bundle = {'QBWebViewSDK' => 'Source/Vendor/QBTakePicture/*.{storyboard}'}
   #s.exclude_files = "Classes/Exclude"
 
