@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "QBWebViewControllerSDK"
-  s.version      = "1.1.3"
+  s.version      = "1.1.5"
   s.summary      = "just for QuBao."
 
   s.description  = "webViewController：提供通用接口用于H5调用"
