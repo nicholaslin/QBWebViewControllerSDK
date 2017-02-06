@@ -3,7 +3,7 @@ Pod::Spec.new do |s|
 
 
   s.name         = "QBWebViewControllerSDK"
-  s.version      = "1.0.0"
+  s.version      = "1.1.0"
   s.summary      = "just for QuBao."
 
   s.description  = "webViewController：提供通用接口用于H5调用"
@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
   s.frameworks    = "Foundation","Webkit","AVFoundation","MapKit","UIKit","AssetsLibrary","Photos"
 
   s.vendored_framework = "QBWebViewControllerSDK.framework"
-  s.dependency "Meiqia", "~> 3.x"
+  s.dependency "Meiqia", "~> 3"
 
 end
