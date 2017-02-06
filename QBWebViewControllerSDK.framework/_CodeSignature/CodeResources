@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		ZX8lvtXbrjKqpNX9a1q5KxUZR2s=
-		</data>
 		<key>Headers/QBRespObject.swift</key>
 		<data>
 		qL+fHiXy1KGWRbsOB7dJzfxRj+o=
@@ -23,26 +19,6 @@
 		<key>Info.plist</key>
 		<data>
 		u+bJ7jBPqUBH4U5V6el6pNJdXWQ=
-		</data>
-		<key>Modules/.DS_Store</key>
-		<data>
-		N4RT2XgT24VdP7EXcedWh1aGrj0=
-		</data>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm.swiftdoc</key>
-		<data>
-		Q9afS6y1/cdoEt2LVyYiDRvzMmI=
-		</data>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm.swiftmodule</key>
-		<data>
-		fBNeMFT99UARhMaYcSjrzBxkNy4=
-		</data>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		qIMd68jhyMFuE2EF/8DOpi5iQiE=
-		</data>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		bLmLVZwmdwozTtp6beF3BnZuowo=
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -92,42 +68,6 @@
 		<data>
 		BWra8SLj1Ux99ieqJ4zbDnhUpvo=
 		</data>
-		<key>QBWebViewControllerSDK.bundle/Assets.car</key>
-		<data>
-		eEpFS3p2vv+3u46+SkFGrU4Nvn0=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/Info.plist</key>
-		<data>
-		a8RRmF6jz550hu/QQ/w6jvTWbyg=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/QBCityCode.json</key>
-		<data>
-		kkK02Xy/Nr2nPkiX66BjqNGlc5U=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/QBWebViewInjectJSCode.js</key>
-		<data>
-		qoWo4T7wb/uK0fOkNuqpBIV2VHQ=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeDirectory</key>
-		<data>
-		tRlR+DdLycyj2esGv8oD02zrIoU=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeRequirements</key>
-		<data>
-		OnX22wWFKRSOFN1+obRynMCeyXM=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeRequirements-1</key>
-		<data>
-		6f3AIp1hP7WQEbcElHZP+qX4LMI=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		aKgqq3tCyi5XRrmk7fc4o3D6aQ4=
-		</data>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeSignature</key>
-		<data>
-		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -162,50 +102,6 @@
 			<key>hash2</key>
 			<data>
 			VT0RMhzmyv9czpBLfJk3XBIJuzT2LW6GyJt0PEI10Bo=
-			</data>
-		</dict>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Q9afS6y1/cdoEt2LVyYiDRvzMmI=
-			</data>
-			<key>hash2</key>
-			<data>
-			LOvc3slKXXZq7Vc3fTeEosBIYKeiAPcrjrP7fhu+gcA=
-			</data>
-		</dict>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fBNeMFT99UARhMaYcSjrzBxkNy4=
-			</data>
-			<key>hash2</key>
-			<data>
-			RdImpDDXlP2dzaGmS7kZhZv0YyOR+kk604Z6lt14gD8=
-			</data>
-		</dict>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qIMd68jhyMFuE2EF/8DOpi5iQiE=
-			</data>
-			<key>hash2</key>
-			<data>
-			5EG0On7Y/zbFzeS0UUaWIQjFwSPeaAK6PYQ6HEytbVg=
-			</data>
-		</dict>
-		<key>Modules/QBWebViewControllerSDK.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bLmLVZwmdwozTtp6beF3BnZuowo=
-			</data>
-			<key>hash2</key>
-			<data>
-			+oRpx0rzj26CArMW23OcaLDcV3VcXHG0o5bxDRKwR/4=
 			</data>
 		</dict>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/i386.swiftdoc</key>
@@ -338,105 +234,6 @@
 			<key>hash2</key>
 			<data>
 			jASKZojlGxL9G1zirbuC6guqonZizuuaTvbEvt4MG2I=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/Assets.car</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eEpFS3p2vv+3u46+SkFGrU4Nvn0=
-			</data>
-			<key>hash2</key>
-			<data>
-			BiHMW5oiicZj+qnR6rBocA3miYTzB5hfuP+W4tHVcRY=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			a8RRmF6jz550hu/QQ/w6jvTWbyg=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ycf282acwNczK69nDgvbr4hk0BR/cuRUPa36UKtcbEk=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/QBCityCode.json</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kkK02Xy/Nr2nPkiX66BjqNGlc5U=
-			</data>
-			<key>hash2</key>
-			<data>
-			wladplklRhMU4vZm6JcxmA/g1OA7hoWJdBOSZhAHfh0=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/QBWebViewInjectJSCode.js</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qoWo4T7wb/uK0fOkNuqpBIV2VHQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			ewEw41CRHidvQK4mMny86EvkhFftdkJ4u/2YkF/TIio=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeDirectory</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tRlR+DdLycyj2esGv8oD02zrIoU=
-			</data>
-			<key>hash2</key>
-			<data>
-			/AwWmHwZybjltFQR/VXvRPF8X04kljSwK9y8uYZKXjk=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeRequirements</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			OnX22wWFKRSOFN1+obRynMCeyXM=
-			</data>
-			<key>hash2</key>
-			<data>
-			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeRequirements-1</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6f3AIp1hP7WQEbcElHZP+qX4LMI=
-			</data>
-			<key>hash2</key>
-			<data>
-			TMnNavAf25Xd2YznTVYMO5n4Hepf8mVg+maWyJSSxIA=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aKgqq3tCyi5XRrmk7fc4o3D6aQ4=
-			</data>
-			<key>hash2</key>
-			<data>
-			syxhmvqfgwaBhTtJk83/kj1Dg8MTIT32KHErtJDB5Hw=
-			</data>
-		</dict>
-		<key>QBWebViewControllerSDK.bundle/_CodeSignature/CodeSignature</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jmj7l5rSw0yVb/vlWAYkK/YBwk=
-			</data>
-			<key>hash2</key>
-			<data>
-			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 	</dict>
