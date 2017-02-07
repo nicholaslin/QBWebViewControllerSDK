@@ -154,15 +154,19 @@ SWIFT_CLASS("_TtC22QBWebViewControllerSDK19QBWebViewController")
 - (void)webView:(WKWebView * _Nonnull)webView decidePolicyForNavigationAction:(WKNavigationAction * _Nonnull)navigationAction decisionHandler:(void (^ _Nonnull)(WKNavigationActionPolicy))decisionHandler;
 @end
 
-@class UINavigationBar;
-@class UINavigationItem;
 
-@interface QBWebViewController (SWIFT_EXTENSION(QBWebViewControllerSDK)) <UINavigationBarDelegate>
-- (BOOL)navigationBar:(UINavigationBar * _Nonnull)navigationBar shouldPopItem:(UINavigationItem * _Nonnull)item;
+@interface QBWebViewController (SWIFT_EXTENSION(QBWebViewControllerSDK))
 @end
 
 
 @interface QBWebViewController (SWIFT_EXTENSION(QBWebViewControllerSDK))
+@end
+
+@class UINavigationBar;
+@class UINavigationItem;
+
+@interface UINavigationController (SWIFT_EXTENSION(QBWebViewControllerSDK)) <UINavigationBarDelegate>
+- (BOOL)navigationBar:(UINavigationBar * _Nonnull)navigationBar shouldPopItem:(UINavigationItem * _Nonnull)item;
 @end
 
 #pragma clang diagnostic pop

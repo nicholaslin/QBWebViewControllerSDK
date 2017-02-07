@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/QBRespObject.swift</key>
 		<data>
-		qL+fHiXy1KGWRbsOB7dJzfxRj+o=
+		JpwqUnN9ta+Irh3Ae6COYmwvSE4=
 		</data>
 		<key>Headers/QBWebViewControllerSDK-Swift.h</key>
 		<data>
-		ZdduaF6gW1HpcS/KHvZwSmw7/W4=
+		Y03vKaiEADdS6zo2spULPfUn3w4=
 		</data>
 		<key>Headers/QBWebViewControllerSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		u+bJ7jBPqUBH4U5V6el6pNJdXWQ=
+		GAwiDDXjZ/kJ1QyqT72ZusQb9KE=
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		I8jjbB/1vF2cfTWA/ksTpXyfCoI=
+		4mGzvD3y9c+DPgO8RrDC1fPQtjs=
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		wN6RE9FTxV3UpTWRx0Ycl25+IvA=
+		uzxHl5nF97s1rLz0PGHxmd0aILU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,31 +42,47 @@
 		</data>
 		<key>QBTakePicture.storyboardc/Info.plist</key>
 		<data>
-		VmynD35alKWoGCeTpzp/QGV3E60=
+		rMKBrq6CnPb2QsiDYW0Aee9ogvE=
 		</data>
 		<key>QBTakePicture.storyboardc/QBAlbumShowViewController.nib</key>
 		<data>
-		jmbnTTPlhaEXu7KffKzgNxdKZC8=
+		P3hNUUNTEG44hXsbxZP3cYEHQPw=
 		</data>
 		<key>QBTakePicture.storyboardc/QBPictureShowViewController.nib</key>
 		<data>
-		+2AsNUJonqArfZ04dnD2yHeDy2M=
+		/+ca0lbyNV9iSrbJn7Ur/yEyIAo=
 		</data>
 		<key>QBTakePicture.storyboardc/QBTakePictureNav.nib</key>
 		<data>
-		oFYgR0LLlmibqq9MDMJ+B/C85rk=
+		wV1jy6lUytcjFlF1oK09wbVLKe0=
 		</data>
 		<key>QBTakePicture.storyboardc/ZDG-cR-ZID-view-IT6-3B-6lU.nib</key>
 		<data>
-		E7CQNcbag4UKXw7irspiTYPJLIg=
+		pPKdHIR34I9LUo5fAdPgKpiYzWA=
 		</data>
 		<key>QBTakePicture.storyboardc/dlk-CE-zRE-view-FAa-WQ-bh3.nib</key>
 		<data>
-		WeZa4LOO2B2FL2EVbTQAWZMF2lM=
+		9eQvWlTlGLhU0qNzPblie+bbgoo=
 		</data>
 		<key>QBTakePicture.storyboardc/mBQ-30-Byi-view-Uv1-nm-Tp6.nib</key>
 		<data>
-		BWra8SLj1Ux99ieqJ4zbDnhUpvo=
+		8qsK8ILPFZziLtBz7RPTyu2gMJA=
+		</data>
+		<key>QBWebViewControllerSDK.bundle/Assets.car</key>
+		<data>
+		cIyy5FCGxCxx5Ak1s5TYUT4ISeE=
+		</data>
+		<key>QBWebViewControllerSDK.bundle/Info.plist</key>
+		<data>
+		iPC5pGi+22bUInOMoOGNonMjTL4=
+		</data>
+		<key>QBWebViewControllerSDK.bundle/QBCityCode.json</key>
+		<data>
+		kkK02Xy/Nr2nPkiX66BjqNGlc5U=
+		</data>
+		<key>QBWebViewControllerSDK.bundle/QBWebViewInjectJSCode.js</key>
+		<data>
+		qoWo4T7wb/uK0fOkNuqpBIV2VHQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,22 +91,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qL+fHiXy1KGWRbsOB7dJzfxRj+o=
+			JpwqUnN9ta+Irh3Ae6COYmwvSE4=
 			</data>
 			<key>hash2</key>
 			<data>
-			P9Of6VbCipKRCbLywubt6bV75i2QlYBLzh7INfgxhgw=
+			aViemsCgeNxQ4Kkjo3KLGHH7YuD3qCSFJtc0x7n7k7s=
 			</data>
 		</dict>
 		<key>Headers/QBWebViewControllerSDK-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZdduaF6gW1HpcS/KHvZwSmw7/W4=
+			Y03vKaiEADdS6zo2spULPfUn3w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z99z9ZaWrUB6+S2H3cO3196Rk4owkqEMrgZsu6CUgN4=
+			wQYJ+gXv4dtoyRF1QVOJ4NPd0j4LGCMpWMClpCreZ10=
 			</data>
 		</dict>
 		<key>Headers/QBWebViewControllerSDK.h</key>
@@ -119,11 +135,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			I8jjbB/1vF2cfTWA/ksTpXyfCoI=
+			4mGzvD3y9c+DPgO8RrDC1fPQtjs=
 			</data>
 			<key>hash2</key>
 			<data>
-			VmW2tb1xmIvfzj63/qKOJzmaxKVYT8zSuFnZw0SVZtk=
+			vGfh9ibwF0j4oqUYpHGuxOJwxUMwVqRwiWU7OCleHYM=
 			</data>
 		</dict>
 		<key>Modules/QBWebViewControllerSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -141,11 +157,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wN6RE9FTxV3UpTWRx0Ycl25+IvA=
+			uzxHl5nF97s1rLz0PGHxmd0aILU=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ptgkGLNJ0fJLwvu0eQarJxJyMcqEz3SbXD8Rb9iR4c=
+			TkFt7USfjOuf3Z5lJQcbZXPfMW1iP4LsNAl3aBmJK8o=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -163,77 +179,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VmynD35alKWoGCeTpzp/QGV3E60=
+			rMKBrq6CnPb2QsiDYW0Aee9ogvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			aA8i85isqtaWr4bh9kbesZIaDfggLd2h4/WdPW6tAlk=
+			BeRr9tHEEgsM3eTKGgs9MPhWobQUiigLc2zHtEYnVbM=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/QBAlbumShowViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jmbnTTPlhaEXu7KffKzgNxdKZC8=
+			P3hNUUNTEG44hXsbxZP3cYEHQPw=
 			</data>
 			<key>hash2</key>
 			<data>
-			RKeC/qxKsjY6Irw34YdhAAJ8s3bMBM/TIA/Wh/BWd90=
+			4mv81zNU+NejMwhQjlkrpYebe4hZwW4nm8jADSPxzek=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/QBPictureShowViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+2AsNUJonqArfZ04dnD2yHeDy2M=
+			/+ca0lbyNV9iSrbJn7Ur/yEyIAo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ob/HRhWdOJfpNmPlR9mrm87VyVVJkvR17BNoJ9YyST0=
+			H165S99GhTl7U9rLQ7mMWtZtukUnxe8UD9xuwr9QV/A=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/QBTakePictureNav.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oFYgR0LLlmibqq9MDMJ+B/C85rk=
+			wV1jy6lUytcjFlF1oK09wbVLKe0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oxxx4qlNVfBXJ517NBCOzWdOBWf1TCwafhvRPEfBdkI=
+			8l1uDDLGDc8ajm7pXat/aQAjkonUovPHdYswL/WjuaU=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/ZDG-cR-ZID-view-IT6-3B-6lU.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			E7CQNcbag4UKXw7irspiTYPJLIg=
+			pPKdHIR34I9LUo5fAdPgKpiYzWA=
 			</data>
 			<key>hash2</key>
 			<data>
-			bGG4y6YzUTsW9ZjaEDMnPd40Ph3tbktFH56yJEuAJ0A=
+			2BUP8vxc28qIsXZzTdmYUwyS0EZFS1eTO9V9n5ZLFR4=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/dlk-CE-zRE-view-FAa-WQ-bh3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WeZa4LOO2B2FL2EVbTQAWZMF2lM=
+			9eQvWlTlGLhU0qNzPblie+bbgoo=
 			</data>
 			<key>hash2</key>
 			<data>
-			KoLLsBQe8xZ9v2fyDyU3yuiynyhU7+vX+sJPaIVOST8=
+			CTOHQi0JBJv5iC3R5SvSlSgAsNIANsvu1XEvu44JjMc=
 			</data>
 		</dict>
 		<key>QBTakePicture.storyboardc/mBQ-30-Byi-view-Uv1-nm-Tp6.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BWra8SLj1Ux99ieqJ4zbDnhUpvo=
+			8qsK8ILPFZziLtBz7RPTyu2gMJA=
 			</data>
 			<key>hash2</key>
 			<data>
-			jASKZojlGxL9G1zirbuC6guqonZizuuaTvbEvt4MG2I=
+			oW/3gu5YijCOQPHgNxtDXnyjUtALmgOgdtaQnh2cgjM=
+			</data>
+		</dict>
+		<key>QBWebViewControllerSDK.bundle/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cIyy5FCGxCxx5Ak1s5TYUT4ISeE=
+			</data>
+			<key>hash2</key>
+			<data>
+			spyoCYNsku+9gk40hpBQ/mSTSR+1CW4YEjAIfEYcY/w=
+			</data>
+		</dict>
+		<key>QBWebViewControllerSDK.bundle/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iPC5pGi+22bUInOMoOGNonMjTL4=
+			</data>
+			<key>hash2</key>
+			<data>
+			r+xCAnnrehLCNKRdLKbel43Lxa+ggCCXx2ay/ZIxk0U=
+			</data>
+		</dict>
+		<key>QBWebViewControllerSDK.bundle/QBCityCode.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kkK02Xy/Nr2nPkiX66BjqNGlc5U=
+			</data>
+			<key>hash2</key>
+			<data>
+			wladplklRhMU4vZm6JcxmA/g1OA7hoWJdBOSZhAHfh0=
+			</data>
+		</dict>
+		<key>QBWebViewControllerSDK.bundle/QBWebViewInjectJSCode.js</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qoWo4T7wb/uK0fOkNuqpBIV2VHQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ewEw41CRHidvQK4mMny86EvkhFftdkJ4u/2YkF/TIio=
 			</data>
 		</dict>
 	</dict>

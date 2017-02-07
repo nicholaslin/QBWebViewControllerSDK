@@ -25,6 +25,8 @@ public enum QBRespStatus:Int {
     case getUserDataFail = 9
     case payFail = 10
     case payCancel = 11
+    
+    case takePictureFail = 12
 }
 
 /*! @brief 响应JS请求的结构体

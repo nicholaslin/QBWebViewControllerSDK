@@ -21,7 +21,7 @@
 ```
 use_frameworks!
 platform :ios, '8.0'
-pod 'QBWebViewControllerSDK','~> 1.1.5'
+pod 'QBWebViewControllerSDK','~> 1.1.6'
 ```
 
 
